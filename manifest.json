@@ -1,0 +1,17 @@
+{
+  "id": "stylized-painterly",
+  "title": { "en": "Painterly", "zh": "Painterly" },
+  "intro": {
+    "en": "Painterly / anisotropic Kuwahara stylized scene. Full-bleed auto-play.",
+    "zh": "Painterly／各向异性 Kuwahara 风格化场景。全幅自动播放。"
+  },
+  "officialFiles": [
+    "vendor/index.html",
+    "vendor/painterly.css",
+    "vendor/painterly.js"
+  ],
+  "playHtml": "play.html",
+  "aspect": "phone",
+  "githubRepo": "YPAAAAAAAAAAAAA/stylized-painterly",
+  "protocol": 1
+}
